@@ -13,6 +13,7 @@ export function throttle<F extends (...args: any[]) => void>(
     }
   }
 }
+
 // --- Examples ---
 // Uncomment to test your implementation:
 
